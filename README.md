@@ -1,5 +1,5 @@
 # Face_Mask_Detector
-Detects whether a person is wearing a face or not
+Detects whether a person is wearing a face mask or not. If someone is found without a mask all access is denied until he/she wears a face mask and also a picture of the culprit is saved with date and time as file name. Also an email feature can be unlocked(by uncommenting the mail section in app.py and providing your email id and password) which will alert the admin about the violation of Face Mask Policy.
 
 ## INSTRUCTIONS
 
